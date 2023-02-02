@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LeadZenapp/static/css/main.e1929bec.css",
+    "main.js": "/LeadZenapp/static/js/main.368bc357.js",
+    "index.html": "/LeadZenapp/index.html",
+    "main.e1929bec.css.map": "/LeadZenapp/static/css/main.e1929bec.css.map",
+    "main.368bc357.js.map": "/LeadZenapp/static/js/main.368bc357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1929bec.css",
+    "static/js/main.368bc357.js"
+  ]
+}
